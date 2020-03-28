@@ -1,0 +1,113 @@
+[[GLPK]]
+arch = "aarch64"
+git-tree-sha1 = "be29ad82ae949da4cf9871fd486f516895740c00"
+libc = "musl"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "1e73ee2f9f5e8067f014012c93f34fd9fbd93a2ff287517d517470e77f9dd2b9"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.aarch64-linux-musl.tar.gz"
+[[GLPK]]
+arch = "i686"
+git-tree-sha1 = "c0abbffbe97f2d35e918efdf801abad608854eb8"
+os = "windows"
+
+    [[GLPK.download]]
+    sha256 = "d44bdfbe1d9bf60a322c4c25c87cbae920d8d38a067e4da1f440ca5242e28ee3"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.i686-w64-mingw32.tar.gz"
+[[GLPK]]
+arch = "x86_64"
+git-tree-sha1 = "722828b421ae53c8b7a28c87f408907894a096d9"
+libc = "musl"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "68c9acc8d6aec8fb739b91d6f68d461e10e8d8721067c1534abc33289cb39683"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.x86_64-linux-musl.tar.gz"
+[[GLPK]]
+arch = "i686"
+git-tree-sha1 = "498af51bfa69daafd2e54d274056f74669ea97a7"
+libc = "glibc"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "bf7e22fa6dafeb8fce8bdc16149844ae748d598b21a4a376f5998ddbf1c16b72"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.i686-linux-gnu.tar.gz"
+[[GLPK]]
+arch = "armv7l"
+git-tree-sha1 = "69c5ee2369b280fa3ce0a225562fe7c09fb961d1"
+libc = "glibc"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "aebfbef9dd2f207cfce67e9254b4c97ab5df9ac7cbdd0238f2af2c3ab6e712ab"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.armv7l-linux-gnueabihf.tar.gz"
+[[GLPK]]
+arch = "aarch64"
+git-tree-sha1 = "5f69f38f2d81076f7afbcc147560a8289399d6cc"
+libc = "glibc"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "37f7d2749bf6a668190887d2339a71d60c5127e2cd3c1618b58a3b88d1e87fb4"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.aarch64-linux-gnu.tar.gz"
+[[GLPK]]
+arch = "x86_64"
+git-tree-sha1 = "f7829460000bf4d6d1e932cb47251fb685574d8b"
+libc = "glibc"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "25887a76790ffd8928366f894a373aee3330ac10976301ad831213ea8651d687"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.x86_64-linux-gnu.tar.gz"
+[[GLPK]]
+arch = "powerpc64le"
+git-tree-sha1 = "a09e211858c580f5d7e1479e473a3de328c7eb38"
+libc = "glibc"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "1c818720daf00b0f5bf1553dffc9a5f4da634a5cf51cb799df445a1fb19de977"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.powerpc64le-linux-gnu.tar.gz"
+[[GLPK]]
+arch = "x86_64"
+git-tree-sha1 = "8f55003d9ee0414e8c50d225092b9823641f6902"
+os = "macos"
+
+    [[GLPK.download]]
+    sha256 = "771b659c59fa7cc7f3405fcc54c3e19a693d762e59958343147afb0e6cea2ce2"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.x86_64-apple-darwin14.tar.gz"
+[[GLPK]]
+arch = "x86_64"
+git-tree-sha1 = "f1ca8017ebd5b1fea94006cd5ba66cad9de64d0b"
+os = "freebsd"
+
+    [[GLPK.download]]
+    sha256 = "08c548a4a992f8c01ba623ce8ece1b0d11962370454f75642a0b5a404bf10182"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[GLPK]]
+arch = "i686"
+git-tree-sha1 = "3e651c97d5dbde3dcca9a2c274d09cf6ef3354a8"
+libc = "musl"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "e31ef2668fa2a82424f76bb436b94a4667858c22ec6cb5141e1425e9e7f32e52"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.i686-linux-musl.tar.gz"
+[[GLPK]]
+arch = "armv7l"
+git-tree-sha1 = "62338faa60987d6f1651fbf69b624da24f93e9d1"
+libc = "musl"
+os = "linux"
+
+    [[GLPK.download]]
+    sha256 = "9554d5adc1bc9ed47f2a659b9b9b683cb64f851373105fdb6aba8709482bc57d"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.armv7l-linux-musleabihf.tar.gz"
+[[GLPK]]
+arch = "x86_64"
+git-tree-sha1 = "50f997a9512b1c4a0cf22bd59c8574576d81437b"
+os = "windows"
+
+    [[GLPK.download]]
+    sha256 = "ab06391495f4fbdacac1e2ac75309446c0ee0f57d2d7ae27b487b330d1ed30d5"
+    url = "https://github.com/JuliaBinaryWrappers/GLPK_jll.jl/releases/download/GLPK-v4.65.0+0/GLPK.v4.65.0.x86_64-w64-mingw32.tar.gz"

@@ -1,6 +1,6 @@
 name = "GLPK_jll"
 uuid = "e8aa6df9-e6ca-548a-97ff-1f85fc5b8b98"
-version = "4.65.0+0"
+version = "4.64.0+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
